@@ -71,6 +71,22 @@ header {
   opacity: 0.5;
 }
 
+#restart-button {
+  display: none; /* Aqui escondemos o botão */
+  padding: 10px 20px;
+  background-color: #007BFF;
+  border: none;
+  color: white;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#restart-button:hover {
+  background-color: #0056b3;
+}
+
 @media screen and (max-width:920px) {
   .grid {
     grid-template-columns: repeat(5, 1fr);
