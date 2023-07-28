@@ -16,7 +16,10 @@
 }
 
 .login__header img {
-  width: 250px;
+  width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
   transition: transform 0.5s ease;
 }
 
