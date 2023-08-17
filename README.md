@@ -1,30 +1,31 @@
-# Joguinho da Memória | Login
+# Joguinho da Memória Pokémon
 
-![Screenshot](./images/poke.png)
+![Screenshot](https://meusjoguinhos.vercel.app/img/JoguinhoDaMemoria.png)
 
-Acesse o Joguinho da Memória: [https://joguinhodamemoria.vercel.app/](https://joguinhodamemoria.vercel.app/)
+Acesse o Joguinho da Memória Pokémon: [https://joguinhodamemoriapokemon.vercel.app/](https://joguinhodamemoriapokemon.vercel.app/)
 
-Bem-vindo ao **Joguinho da Memória**, um divertido jogo de memória temático para você testar suas habilidades de memorização!
+Bem-vindo ao **Joguinho da Memória Pokémon**, um jogo divertido que testará suas habilidades de memória enquanto você combina cartas temáticas de Pokémon!
 
 ## Sobre o Jogo
 
-O Joguinho da Memória é um jogo clássico de cartas viradas para baixo, onde o objetivo é encontrar os pares correspondentes de cartas. O jogo começa com as cartas viradas para baixo, e o jogador deve escolher duas cartas de cada vez, tentando encontrar os pares iguais. O jogador vence ao encontrar todos os pares.
+O Joguinho da Memória Pokémon é uma versão temática do clássico jogo de memória. O objetivo é encontrar pares de cartas de Pokémon correspondentes virando as cartas e combinando os pares. Você vence o jogo quando todas as cartas forem combinadas.
 
 ## Como Jogar
 
 1. Abra o arquivo HTML em seu navegador para acessar a tela de login.
 2. Digite seu nome no campo "Name".
-3. Clique no botão "Play" para começar o jogo.
-4. No jogo de memória, você será apresentado a várias cartas viradas para baixo.
-5. Clique em duas cartas para revelar seus conteúdos. Se as cartas forem iguais, elas permanecerão viradas.
-6. Continue escolhendo cartas até encontrar todos os pares correspondentes.
-7. O jogo termina quando todos os pares forem encontrados.
+3. Clique no botão "Play" para iniciar o jogo.
+4. Na tela do jogo, você verá várias cartas viradas para baixo.
+5. Clique em duas cartas de cada vez para revelar seus conteúdos.
+6. Se as cartas forem iguais, elas permanecerão viradas para cima.
+7. Continue combinando as cartas até encontrar todos os pares correspondentes.
+8. O jogo é concluído quando todos os pares são encontrados.
 
 ## Recursos
 
--   Interface de usuário simples e intuitiva.
--   Tema de jogo de memória com cartas.
--   Desafio de memória que ajuda a exercitar suas habilidades cognitivas.
+-   Interface de usuário amigável com temática de Pokémon.
+-   Exercício divertido para testar e melhorar sua memória.
+-   Divirta-se com seus personagens Pokémon favoritos.
 
 ## Tecnologias Utilizadas
 
@@ -36,4 +37,4 @@ O Joguinho da Memória é um jogo clássico de cartas viradas para baixo, onde o
 
 1. Abra o arquivo HTML em qualquer navegador moderno para acessar a tela de login.
 2. Insira seu nome no campo "Name".
-3. Clique no botão "Play" para começar o jogo de memória.
+3. Clique no botão "Play" para começar a jogar o Joguinho da Memória Pokémon.
